@@ -36,7 +36,7 @@ export function Footer() {
             <div className="flex flex-col gap-10 md:flex-row md:items-center md:justify-between">
               <div className="relative flex-1 overflow-visible">
                 <div className="relative flex flex-wrap items-baseline gap-5 text-4xl md:text-6xl lg:text-7xl font-bold tracking-[0.25em] uppercase leading-none transition-transform duration-700 ease-[.22,.61,.36,1] group-hover:md:-rotate-2">
-                  {["LET'S", "CREATE", "TOGETHER"].map((word, index) => (
+                  {["LET'S", "CONNECT", "TOGETHER"].map((word, index) => (
                     <span key={word} className="relative block overflow-hidden text-white">
                       <span
                         className="block translate-y-0 transition-transform duration-700 ease-[.22,.61,.36,1] group-hover:-translate-y-2"
