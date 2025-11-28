@@ -18,12 +18,8 @@
 - *.log
 - *.local
 - .idea
-- .vscode
-- *.swp
+node_modules/
+package-lock.json
 - *.swo
-- coverage
-- build
-- .env
-- .env.*
-- !.env.example
 
+- coverage
