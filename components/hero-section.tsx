@@ -53,7 +53,8 @@ export function HeroSection() {
                 delay: 0.2,
               }}
             >
-              𝕁𝕦𝕤𝕥 ℂ𝕦𝕝𝕥𝕦𝕣𝕖
+              <span className="block">𝕁𝕦𝕤𝕥</span>
+              <span className="block">ℂ𝕦𝕝𝕥𝕦𝕣𝕖</span>
             </motion.h1>
           </motion.div>
 

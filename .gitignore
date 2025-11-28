@@ -1,4 +1,5 @@
 - node_modules
+- nodemodules
 - .next
 - out
 - dist
